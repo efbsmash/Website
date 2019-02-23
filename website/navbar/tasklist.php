@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task List</title>
+    <link rel="stylesheet" href="/style.css" type="text/css">
+</head>
+<body>
+ <table>
+     <tr>
+         <td>Sunday</td>
+         <td>Monday</td>
+         <td>Tuesday</td>
+         <td>Wednesday</td>
+         <td>Thursday</td>
+         <td>Friday</td>
+         <td>Saturday</td>
+     </tr>
+     <tr>
+         <td>Sunday</td>
+         <td>Monday</td>
+         <td>Tuesday</td>
+         <td>Wednesday</td>
+         <td>Thursday</td>
+         <td>Friday</td>
+         <td>Saturday</td>
+     </tr>
+     <tr>
+         <td>Sunday</td>
+         <td>Monday</td>
+         <td>Tuesday</td>
+         <td>Wednesday</td>
+         <td>Thursday</td>
+         <td>Friday</td>
+         <td>Saturday</td>
+     </tr>
+     <tr>
+         <td>Sunday</td>
+         <td>Monday</td>
+         <td>Tuesday</td>
+         <td>Wednesday</td>
+         <td>Thursday</td>
+         <td>Friday</td>
+         <td>Saturday</td>
+     </tr>
+     <tr>
+         <td>Sunday</td>
+         <td>Monday</td>
+         <td>Tuesday</td>
+         <td>Wednesday</td>
+         <td>Thursday</td>
+         <td>Friday</td>
+         <td>Saturday</td>
+     </tr>
+     <tr>
+         <td>Sunday</td>
+         <td>Monday</td>
+         <td>Tuesday</td>
+         <td>Wednesday</td>
+         <td>Thursday</td>
+         <td>Friday</td>
+         <td>Saturday</td>
+     </tr>
+     <tr>
+         <td>Sunday</td>
+         <td>Monday</td>
+         <td>Tuesday</td>
+         <td>Wednesday</td>
+         <td>Thursday</td>
+         <td>Friday</td>
+         <td>Saturday</td>
+     </tr>
+
+ </table>
+</body>
+</html>
